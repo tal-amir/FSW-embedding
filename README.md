@@ -1,6 +1,6 @@
 # FSW-embedding
 
-> **Fourier Sliced-Wasserstein Embedding for Multisets and Measures**  
+> [**Fourier Sliced-Wasserstein Embedding for Multisets and Measures**](https://iclr.cc/virtual/2025/poster/30562)  
 > Tal Amir and Nadav Dym.  
 > *International Conference on Learning Representations (ICLR)*, 2025.
 
