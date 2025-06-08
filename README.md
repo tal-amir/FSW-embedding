@@ -4,6 +4,6 @@
 > Tal Amir and Nadav Dym.  
 > *International Conference on Learning Representations (ICLR)*, 2025.
 
-The implementation of the FSW embedding has been moved to [**fswlib**](https://github.com/tal-amir/fswlib), and is now available as a Python package: [`fswlib`](https://pypi.org/project/fswlib/).
+The implementation of the FSW embedding has been moved [**here**](https://github.com/tal-amir/fswlib), and is now available as a Python package: [`fswlib`](https://pypi.org/project/fswlib/).
 
 This repository is no longer maintained.
