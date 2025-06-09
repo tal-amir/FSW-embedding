@@ -2,9 +2,8 @@
 
 > **Fourier Sliced-Wasserstein Embedding for Multisets and Measures**  
 > Tal Amir & Nadav Dym  
-> *International Conference on Learning Representations (ICLR)*, 2025  
-> [Paper site](https://iclr.cc/virtual/2025/poster/30562)
+> *International Conference on Learning Representations (ICLR)*, 2025
 
-The implementation of the FSW embedding has been moved [**here**](https://github.com/tal-amir/fswlib) and is now available as a Python package: [`fswlib`](https://pypi.org/project/fswlib/).
+The implementation has been moved [**here**](https://github.com/tal-amir/fswlib) and is available as a Python package: [`fswlib`](https://pypi.org/project/fswlib/).
 
 This repository is no longer maintained.
